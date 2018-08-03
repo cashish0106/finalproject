@@ -1,4 +1,10 @@
-c:\Program Files\MongoDB\Server\3.6\bin>mongoimport -d FinalProject -c years --type csv --file C:\DataScience\years.csv --headerline
-
+-------To import CSV to Mongodb
 c:\Program Files\MongoDB\Server\3.6\bin>mongoimport -d FinalProject -c vechicles --type csv --file C:\DataScience\vehicles.csv --headerline
 
+
+------ To export collection to Json
+c:\Program Files\MongoDB\Server\3.6\bin>mongoexport --db FinalProject --collection 2017 --out c:\temp\2017.json
+
+
+------to import Json to collection
+c:\Program Files\MongoDB\Server\3.6\bin>mongoimport -d FinalProject -c 2017--type json --file C:\DataScience\2017.json --headerline
