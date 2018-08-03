@@ -1,0 +1,4 @@
+c:\Program Files\MongoDB\Server\3.6\bin>mongoimport -d FinalProject -c years --type csv --file C:\DataScience\years.csv --headerline
+
+c:\Program Files\MongoDB\Server\3.6\bin>mongoimport -d FinalProject -c vechicles --type csv --file C:\DataScience\vehicles.csv --headerline
+

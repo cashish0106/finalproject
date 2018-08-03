@@ -1,0 +1,477 @@
+make,model,urlmake,urlmodel
+Hyundai,Accent,hyundai,accent
+Chevrolet,Sonic,chevrolet,sonic
+Mitsubishi,Montero,mitsubishi,montero
+Scion,xB,scion,xb
+Rolls-Royce,Phantom,rolls-royce,phantom
+Lamborghini,Huracan,lamborghini,huracan
+Dodge,Challenger,dodge,challenger
+Volkswagen,Jetta,volkswagen,jetta
+Ford,Focus,ford,focus
+Dodge,Dart,dodge,dart
+Ford,F-150,ford,f-150
+Toyota,Tundra,toyota,tundra
+Toyota,RAV4,toyota,rav4
+Saturn,S-Series,saturn,s-series
+Nissan,Titan,nissan,titan
+Kia,Soul,kia,soul
+Buick,LeSabre,buick,lesabre
+FIAT,500e,fiat,500e
+FIAT,124 Spider,fiat,124-spider
+Subaru,Outback,subaru,outback
+Genesis,G90,genesis,g90
+Hyundai,Santa Fe,hyundai,santa-fe
+Honda,Ridgeline,honda,ridgeline
+Kia,Forte,kia,forte
+INFINITI,I35,infiniti,i35
+INFINITI,Q70,infiniti,q70
+Nissan,Sentra,nissan,sentra
+Mazda,3,mazda,3
+Hyundai,Tucson,hyundai,tucson
+smart,fortwo,smart,fortwo
+Maserati,Quattroporte,maserati,quattroporte
+Jaguar,F-TYPE,jaguar,f-type
+Toyota,Venza,toyota,venza
+Audi,Q7,audi,q7
+Porsche,718 Boxster,porsche,718-boxster
+Hyundai,Elantra,hyundai,elantra
+Volvo,V60,volvo,v60
+Mercedes-Benz,E-Class,mercedesbenz,e-class
+Maserati,Ghibli,maserati,ghibli
+Dodge,Ram Pickup 1500,dodge,ram-pickup-1500
+Honda,Civic,honda,civic
+Jeep,Compass,jeep,compass
+Hyundai,Sonata,hyundai,sonata
+Chrysler,PT Cruiser,chrysler,pt-cruiser
+Chrysler,Pacifica Hybrid,chrysler,pacifica-hybrid
+Dodge,Charger,dodge,charger
+Ford,Fiesta,ford,fiesta
+Jeep,Grand Cherokee,jeep,grand-cherokee
+Ram,3500,ram,3500
+GMC,Sierra 3500HD,gmc,sierra-3500hd
+Cadillac,ATS-V,cadillac,ats-v
+GMC,Terrain,gmc,terrain
+Buick,Envision,buick,envision
+Mazda,CX-9,mazda,cx-9
+Chevrolet,Cruze,chevrolet,cruze
+Ford,Escape,ford,escape
+Lexus,CT 200h,lexus,ct-200h
+BMW,3 Series,bmw,3-series
+Honda,Pilot,honda,pilot
+Toyota,4Runner,toyota,4runner
+Toyota,Corolla,toyota,corolla
+Nissan,Versa,nissan,versa
+INFINITI,G35,infiniti,g35
+BMW,7 Series,bmw,7-series
+Toyota,Camry Hybrid,toyota,camry-hybrid
+Saturn,L-Series,saturn,l-series
+Toyota,Sienna,toyota,sienna
+Kia,Sportage,kia,sportage
+Toyota,Prius,toyota,prius
+Subaru,Legacy,subaru,legacy
+Nissan,Versa Note,nissan,versa-note
+MINI,Cooper Clubman,mini,cooper-clubman
+Toyota,Land Cruiser,toyota,land-cruiser
+Honda,Accord,honda,accord
+Scion,tC,scion,tc
+Mercedes-Benz,CLS-Class,mercedesbenz,cls-class
+Mercedes-Benz,Metris,mercedesbenz,metris
+Chevrolet,Spark,chevrolet,spark
+BMW,X3,bmw,x3
+Nissan,Leaf,nissan,leaf
+Ford,Ranger,ford,ranger
+Ford,Flex,ford,flex
+Mitsubishi,Mirage,mitsubishi,mirage
+Toyota,Matrix,toyota,matrix
+Ram,1500,ram,1500
+Chevrolet,S-10,chevrolet,s-10
+Chrysler,Pacifica,chrysler,pacifica
+Dodge,Grand Caravan,dodge,grand-caravan
+Ford,Five Hundred,ford,five-hundred
+Volvo,S60,volvo,s60
+Chevrolet,Cobalt,chevrolet,cobalt
+Volkswagen,Tiguan,volkswagen,tiguan
+Ford,Expedition,ford,expedition
+Lexus,LX 570,lexus,lx-570
+Kia,Optima,kia,optima
+Mercedes-Benz,CLA-Class,mercedesbenz,cla-class
+Chevrolet,HHR,chevrolet,hhr
+Chevrolet,Trax,chevrolet,trax
+Mitsubishi,Outlander Sport,mitsubishi,outlander-sport
+Volvo,XC60,volvo,xc60
+Chevrolet,Silverado-1500,chevrolet,silverado-1500
+Chevrolet,Traverse,chevrolet,traverse
+Jeep,Wrangler,jeep,wrangler
+FIAT,500X,fiat,500x
+Cadillac,CT6,cadillac,ct6
+Honda,CR-V,honda,cr-v
+Acura,RLX,acura,rlx
+Kia,Rio,kia,rio
+Nissan,Altima,nissan,altima
+Toyota,Highlander,toyota,highlander
+Audi,A6,audi,a6
+Buick,Encore,buick,encore
+Ford,Explorer,ford,explorer
+Mazda,2,mazda,2
+INFINITI,M35,infiniti,m35
+Saturn,ION,saturn,ion
+Kia,Sedona,kia,sedona
+Honda,Fit,honda,fit
+BMW,5 Series,bmw,5-series
+Hyundai,Santa Fe Sport,hyundai,santa-fe-sport
+Subaru,Impreza,subaru,impreza
+Saturn,VUE,saturn,vue
+Cadillac,ATS,cadillac,ats
+Chrysler,200,chrysler,200
+Chrysler,300,chrysler,300
+Acura,MDX,acura,mdx
+Lexus,ES 300,lexus,es-300
+Volkswagen,Passat,volkswagen,passat
+Ford,Mustang,ford,mustang
+Mercedes-Benz,SLK-Class,mercedesbenz,slk-class
+Nissan,Armada,nissan,armada
+FIAT,500,fiat,500
+Ford,Fusion,ford,fusion
+Hyundai,Tiburon,hyundai,tiburon
+Toyota,Camry,toyota,camry
+BMW,i3,bmw,i3
+MINI,Cooper Paceman,mini,cooper-paceman
+Nissan,Murano,nissan,murano
+Nissan,Rogue Sport,nissan,rogue-sport
+Chevrolet,Suburban,chevrolet,suburban
+Audi,A4,audi,a4
+Cadillac,STS,cadillac,sts
+Volkswagen,New Beetle,volkswagen,new-beetle
+Nissan,Rogue,nissan,rogue
+Toyota,Yaris,toyota,yaris
+Acura,RDX,acura,rdx
+Chevrolet,Camaro,chevrolet,camaro
+GMC,Canyon,gmc,canyon
+Land,Rover Range Rover Evoque,landrover,range-rover-evoque
+Mitsubishi,Mirage G4,mitsubishi,mirage-g4
+GMC,Sierra 1500,gmc,sierra-1500
+Pontiac,Sunfire,pontiac,sunfire
+Honda,Odyssey,honda,odyssey
+INFINITI,QX60,infiniti,qx60
+Lexus,RX 330,lexus,rx-330
+Ferrari,458 Italia,ferrari,458-italia
+Porsche,911,porsche,911
+Mercedes-Benz,GLK-Class,mercedesbenz,glk-class
+GMC,Yukon,gmc,yukon
+Land,Rover Range Rover,landrover,range-rover
+Audi,S5,audi,s5
+Mercedes-Benz,S-Class,mercedesbenz,s-class
+BMW,6 Series,bmw,6-series
+Dodge,Viper,dodge,viper
+BMW,i8,bmw,i8
+Mercedes-Benz,G-Class,mercedesbenz,g-class
+Lexus,LC 500,lexus,lc-500
+Mercedes-Benz,SLS AMG,mercedesbenz,sls-amg
+Land,Rover Range Rover Sport,landrover,range-rover-sport
+Toyota,Prius c,toyota,prius-c
+Toyota,Prius v,toyota,prius-v
+Toyota,Corolla iM,toyota,corolla-im
+Jeep,Renegade,jeep,renegade
+Toyota,Avalon,toyota,avalon
+Rolls-Royce,Dawn,rolls-royce,dawn
+Rolls-Royce,Ghost,rolls-royce,ghost
+Rolls-Royce,Ghost Series II,rolls-royce,ghost-series-ii
+Rolls-Royce,Wraith,rolls-royce,wraith
+Rolls-Royce,Phantom Drophead Coupe,rolls-royce,phantom-drophead-coupe
+Mercedes-Benz,SLS AMG GT Final Edition,mercedesbenz,sls-amg-gt-final-edition
+Ferrari,599,ferrari,599
+Ferrari,F430,ferrari,f430
+Ferrari,California,ferrari,california
+Mercedes-Benz,C-Class,mercedesbenz,c-class
+Lexus,ES 330,lexus,es-330
+Volkswagen,Golf GTI,volkswagen,golf-gti
+Volkswagen,Jetta SportWagen,volkswagen,jetta-sportwagen
+Ford,Transit Wagon,ford,transit-wagon
+Ford,Transit Van,ford,transit-van
+Pontiac,Trans Sport,pontiac,trans-sport
+GMC,Savana Cargo,gmc,savana-cargo
+Subaru,Forester,subaru,forester
+INFINITI,G37,infiniti,g37
+Mercedes-Benz,SL-Class,mercedesbenz,sl-class
+Mercedes-Benz,CLK-Class,mercedesbenz,clk-class
+MINI,Cooper,mini,cooper
+INFINITI,G Coupe,infiniti,g-coupe
+Toyota,FJ Cruiser,toyota,fj-cruiser
+Kia,Soul EV,kia,soul-ev
+Hyundai,Veloster,hyundai,veloster
+Honda,CR-Z,honda,cr-z
+Cadillac,DTS,cadillac,dts
+Chevrolet,Impala,chevrolet,impala
+Mazda,CX-3,mazda,cx-3
+Ford,Fusion Energi,ford,fusion-energi
+Lexus,NX 200t,lexus,nx-200t
+Ford,Focus RS,ford,focus-rs
+Ford,Fusion Hybrid,ford,fusion-hybrid
+Chevrolet,Volt,chevrolet,volt
+Ford,F-350 Super Duty,ford,f-350-super-duty
+Toyota,Tacoma,toyota,tacoma
+Chevrolet,Tahoe,chevrolet,tahoe
+Ford,Edge,ford,edge
+Lexus,RX 350,lexus,rx-350
+Cadillac,SRX,cadillac,srx
+Ford,F-250 Super Duty,ford,f-250-super-duty
+Nissan,Frontier,nissan,frontier
+Dodge,Durango,dodge,durango
+Ford,EcoSport,ford,ecosport
+Ford,Taurus,ford,taurus
+Ford,C-Max Hybrid,ford,c-max-hybrid
+Ford,Transit Connect,ford,transit-connect
+Ford,Focus ST,ford,focus-st
+Jeep,Cherokee,jeep,cherokee
+Chevrolet,Corvette,chevrolet,corvette
+Lexus,GX 470,lexus,gx-470
+Toyota,RAV4 Hybrid,toyota,rav4-hybrid
+Toyota,Prius Prime,toyota,prius-prime
+Toyota,86,toyota,86
+Toyota,Yaris iA,toyota,yaris-ia
+Toyota,Corolla Hatchback,toyota,corolla-hatchback
+Toyota,Avalon Hybrid,toyota,avalon-hybrid
+Toyota,C-HR,toyota,c-hr
+Toyota,Sequoia,toyota,sequoia
+Nissan,Maxima,nissan,maxima
+Dodge,Dakota,dodge,dakota
+Volvo,V70,volvo,v70
+Chevrolet,Silverado-2500HD,chevrolet,silverado-2500hd
+Mazda,6,mazda,6
+Dodge,Ram Pickup 2500,dodge,ram-pickup-2500
+Nissan,Xterra,nissan,xterra
+Volvo,XC70,volvo,xc70
+Nissan,Pathfinder,nissan,pathfinder
+Nissan,Kicks,nissan,kicks
+Nissan,Juke,nissan,juke
+Nissan,370Z,nissan,370z
+Nissan,Titan XD,nissan,titan-xd
+Acura,TSX,acura,tsx
+Dodge,Journey,dodge,journey
+Maserati,GranTurismo,maserati,granturismo
+Saturn,Aura,saturn,aura
+Jeep,Liberty,jeep,liberty
+Pontiac,Grand Prix,pontiac,grand-prix
+Volkswagen,Routan,volkswagen,routan
+Volkswagen,Beetle,volkswagen,beetle
+Mitsubishi,Lancer,mitsubishi,lancer
+Mitsubishi,Outlander,mitsubishi,outlander
+Scion,FR-S,scion,fr-s
+Acura,RSX,acura,rsx
+Nissan,350Z,nissan,350z
+Lexus,IS 250,lexus,is-250
+Ford,Excursion,ford,excursion
+Chevrolet,Malibu,chevrolet,malibu
+Chevrolet,Malibu-Classic,chevrolet,malibu-classic
+Chevrolet,Malibu-Maxx,chevrolet,malibu-maxx
+Cadillac,CTS,cadillac,cts
+Pontiac,G6,pontiac,g6
+GMC,Acadia,gmc,acadia
+GMC,Yukon XL,gmc,yukon-xl
+Tesla,Model S,tesla,model-s
+Audi,allroad,audi,allroad
+BMW,2 Series,bmw,2-series
+BMW,6 Series Gran Coupe,bmw,6-series-gran-coupe
+BMW,M4,bmw,m4
+BMW,M,bmw,m
+Porsche,Cayenne,porsche,cayenne
+FIAT,500L,fiat,500l
+Subaru,WRX,subaru,wrx
+Subaru,Crosstrek,subaru,crosstrek
+Mazda,5,mazda,5
+Subaru,Impreza WRX,subaru,impreza-wrx
+Subaru,BRZ,subaru,brz
+Chevrolet,Cruze-Limited,chevrolet,cruze-limited
+Subaru,Ascent,subaru,ascent
+Genesis,G80,genesis,g80
+Hyundai,Kona,hyundai,kona
+Hyundai,Ioniq Hybrid,hyundai,ioniq-hybrid
+Hyundai,Sonata Hybrid,hyundai,sonata-hybrid
+Hyundai,Elantra GT,hyundai,elantra-gt
+Honda,Clarity,honda,clarity
+Honda,Insight,honda,insight
+Honda,HR-V,honda,hr-v
+Honda,Accord Hybrid,honda,accord-hybrid
+BMW,X4,bmw,x4
+Kia,Sorento,kia,sorento
+Mazda,CX-5,mazda,cx-5
+Audi,A3 Sportback e-tron,audi,a3-sportback-e-tron
+Volkswagen,GTI,volkswagen,gti
+BMW,Z4,bmw,z4
+Chevrolet,Equinox,chevrolet,equinox
+Ram,Promaster Cargo Van,ram,promaster-cargo-van
+Jeep,Patriot,jeep,patriot
+Ford,E-Series Wagon,ford,e-series-wagon
+Ford,Expedition EL,ford,expedition-el
+Jaguar,S-Type,jaguar,s-type
+Lexus,ES 350,lexus,es-350
+Lexus,LS 400,lexus,ls-400
+Saturn,Outlook,saturn,outlook
+INFINITI,M45,infiniti,m45
+BMW,X5,bmw,x5
+Isuzu,Ascender,isuzu,ascender
+Ford,Econoline Cargo,ford,econoline-cargo
+Ford,C-Max Energi,ford,c-max-energi
+Cadillac,Escalade ESV,cadillac,escalade-esv
+Cadillac,Escalade,cadillac,escalade
+Mercedes-Benz,M-Class,mercedesbenz,m-class
+Volvo,S40,volvo,s40
+BMW,Z3,bmw,z3
+Audi,Q5,audi,q5
+Lexus,LS 430,lexus,ls-430
+Oldsmobile,Bravada,oldsmobile,bravada
+Saturn,Sky,saturn,sky
+HUMMER,H3,hummer,h3
+Ford,E-Series Van,ford,e-series-van
+Cadillac,Escalade EXT,cadillac,escalade-ext
+Audi,A3,audi,a3
+GMC,Yukon Hybrid,gmc,yukon-hybrid
+Dodge,Magnum,dodge,magnum
+Chevrolet,Express,chevrolet,express
+HUMMER,H2,hummer,h2
+Ford,Econoline Wagon,ford,econoline-wagon
+Lexus,RX 450h,lexus,rx-450h
+Ram,2500,ram,2500
+Lincoln,MKZ,lincoln,mkz
+Chevrolet,Express-Cargo,chevrolet,express-cargo
+Lincoln,Navigator,lincoln,navigator
+INFINITI,FX50,infiniti,fx50
+Lincoln,Town Car,lincoln,town-car
+Mercedes-Benz,GL-Class,mercedesbenz,gl-class
+Chevrolet,Colorado,chevrolet,colorado
+Ford,Explorer Sport Trac,ford,explorer-sport-trac
+Subaru,B9 Tribeca,subaru,b9-tribeca
+Hyundai,XG350,hyundai,xg350
+INFINITI,Q60,infiniti,q60
+INFINITI,Q50,infiniti,q50
+INFINITI,QX50,infiniti,qx50
+INFINITI,QX80,infiniti,qx80
+INFINITI,QX30,infiniti,qx30
+INFINITI,QX70,infiniti,qx70
+INFINITI,Q60 Convertible,infiniti,q60-convertible
+INFINITI,Q40,infiniti,q40
+INFINITI,Q60 Coupe,infiniti,q60-coupe
+Buick,Enclave,buick,enclave
+Buick,Verano,buick,verano
+Mercedes-Benz,GLE-Class,mercedesbenz,gle-class
+BMW,4 Series,bmw,4-series
+BMW,M3,bmw,m3
+MINI,Countryman,mini,countryman
+Volkswagen,Golf,volkswagen,golf
+Kia,Cadenza,kia,cadenza
+Volkswagen,CC,volkswagen,cc
+Mazda,CX-7,mazda,cx-7
+Porsche,Boxster,porsche,boxster
+Dodge,Avenger,dodge,avenger
+Lexus,GS 350,lexus,gs-350
+BMW,3 Series Gran Turismo,bmw,3-series-gran-turismo
+BMW,1 Series,bmw,1-series
+Acura,ILX,acura,ilx
+Lexus,IS F,lexus,is-f
+Lexus,GX 460,lexus,gx-460
+Hyundai,Genesis,hyundai,genesis
+MINI,Cooper Countryman,mini,cooper-countryman
+Volvo,XC90,volvo,xc90
+Cadillac,XTS,cadillac,xts
+Scion,iM,scion,im
+Audi,TT,audi,tt
+Audi,A5,audi,a5
+Scion,iA,scion,ia
+Jaguar,XK,jaguar,xk
+Jaguar,XJ,jaguar,xj
+Jaguar,XE,jaguar,xe
+Jaguar,XF,jaguar,xf
+Jaguar,F-PACE,jaguar,f-pace
+Jaguar,E-PACE,jaguar,e-pace
+Mitsubishi,Eclipse Spyder,mitsubishi,eclipse-spyder
+Mercedes-Benz,GLA-Class,mercedesbenz,gla-class
+Land,Rover LR4,landrover,lr4
+Audi,Q3,audi,q3
+Nissan,Rogue Select,nissan,rogue-select
+Audi,A8,audi,a8
+Mercedes-Benz,GLC-Class,mercedesbenz,glc-class
+MINI,Hardtop 4 Door,mini,hardtop-4-door
+Audi,RS 5,audi,rs5
+Audi,A7,audi,a7
+Cadillac,CTS-V,cadillac,cts-v
+Audi,S6,audi,s6
+Audi,RS 3,audi,rs-3
+Audi,R8,audi,r8
+Audi,S3,audi,s3
+Audi,SQ5,audi,sq5
+Audi,S4,audi,s4
+Porsche,Macan,porsche,macan
+Porsche,718 Cayman,porsche,718-cayman
+Porsche,Panamera,porsche,panamera
+Buick,Regal,buick,regal
+Chevrolet,Malibu-Limited,chevrolet,malibu-limited
+Chevrolet,Impala-Limited,chevrolet,impala-limited
+Volvo,S80,volvo,s80
+Nissan,NV200,nissan,nv200
+Volvo,V90 Cross Country,volvo,v90-cross-country
+Volvo,XC40,volvo,xc40
+Volvo,V60 Cross Country,volvo,v60-cross-country
+Volvo,S90,volvo,s90
+Ferrari,FF,ferrari,ff
+Ferrari,California T,ferrari,california-t
+Ferrari,GTC4Lusso,ferrari,gtc4lusso
+Maserati,Levante,maserati,levante
+Ferrari,360,ferrari,360
+Maserati,GranTurismo Convertible,maserati,granturismo-convertible
+Land,Rover LR2,landrover,lr2
+Volkswagen,e-Golf,volkswagen,e-golf
+Volkswagen,Tiguan Limited,volkswagen,tiguan-limited
+Volkswagen,Golf SportWagen,volkswagen,golf-sportwagen
+Chevrolet,City-Express,chevrolet,city-express
+BMW,4 Series Gran Coupe,bmw,4-series-gran-coupe
+BMW,X1,bmw,x1
+BMW,M6 Gran Coupe,bmw,m6-gran-coupe
+Maserati,Spyder,maserati,spyder
+Lexus,LS 460,lexus,ls-460
+Lincoln,MKC,lincoln,mkc
+Lincoln,MKX,lincoln,mkx
+Lincoln,MKT,lincoln,mkt
+Chevrolet,Silverado-3500HD,chevrolet,silverado-3500hd
+Chevrolet,Aveo,chevrolet,aveo
+Pontiac,Vibe,pontiac,vibe
+Chrysler,Town and Country,chrysler,town-and-country
+Jeep,Wrangler JK,jeep,wrangler-jk
+Ram,Promaster City,ram,promaster-city
+GMC,Sierra 2500HD,gmc,sierra-2500hd
+Cadillac,XT5,cadillac,xt5
+Cadillac,ATS Coupe,cadillac,ats-coupe
+Buick,LaCrosse,buick,lacrosse
+Lexus,IS 250 C,lexus,is-250-c
+Buick,Regal TourX,buick,regal-tourx
+Buick,Regal Sportback,buick,regal-sportback
+Mazda,MX-5 Miata RF,mazda,mx-5-miata-rf
+Mazda,MX-5 Miata,mazda,mx-5-miata
+GMC,Envoy,gmc,envoy
+INFINITI,G Sedan,infiniti,g-sedan
+Toyota,Pickup,toyota,pickup
+Dodge,Neon,dodge,neon
+Chevrolet,Silverado-2500HD-Classic,chevrolet,silverado-2500hd-classic
+Lexus,SC 430,lexus,sc-430
+Scion,xD,scion,xd
+Jaguar,XJ-Series,jaguar,xj-series
+Chrysler,Sebring,chrysler,sebring
+Hyundai,Veracruz,hyundai,veracruz
+Toyota,Highlander Hybrid,toyota,highlander-hybrid
+Lexus,IS 350,lexus,is-350
+BMW,M5,bmw,m5
+BMW,ALPINA B6 Gran Coupe,bmw,alpina-b6-gran-coupe
+BMW,X5 M,bmw,x5-m
+BMW,M6,bmw,m6
+BMW,ALPINA B7,bmw,alpina-b7
+BMW,6 Series Gran Turismo,bmw,6-series-gran-turismo
+BMW,X6 M,bmw,x6-m
+BMW,X2,bmw,x2
+BMW,M2,bmw,m2
+BMW,X6,bmw,x6
+Chevrolet,Silverado-2500,chevrolet,silverado-2500
+Dodge,Nitro,dodge,nitro
+Volkswagen,Beetle Convertible,volkswagen,beetle-convertible
+Subaru,XV Crosstrek,subaru,xv-crosstrek
+Dodge,Caliber,dodge,caliber
+Mazda,Mazdaspeed 3,mazda,mazdaspeed-3
+Kia,Optima Hybrid,kia,optima-hybrid
